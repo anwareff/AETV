@@ -1,0 +1,28 @@
+#EXTM3U
+#EXTINF:-1 group-title="SDM IPTV FREE" tvg-logo="https://i.imgur.com/xpYw4gO.jpg",IPTV Milik Anwar Effendy - Tidak Untuk Dijual
+
+******************** TV_BERITA_Indonesia ********************
+#EXTM3U
+
+#EXTINF:-1 group-title="TV_BERITA_Indonesia" tvg-logo="http://www.dens.tv/images/channel-logo/6.jpg", Metro TV
+http://rr.dens.tv/h/h12/index.m3u8
+
+
+#EXTINF:-1 group-title="TV_BERITA_Indonesia" tvg-logo="http://www.dens.tv/images/channel-logo/7.jpg", tvOne
+http://rr2.dens.tv/s/s105/index3.m3u8
+
+#EXTINF:-1 group-title="TV_BERITA_Indonesia" tvg-logo="http://www.dens.tv/images/channel-logo/14.jpg", Kompas TV
+http://rr2.dens.tv/s/s104/index10.m3u8
+
+#EXTINF: group-title="TV_BERITA_Indonesia" tvg-logo="http://www.dens.tv/images/channel-logo/80.jpg", BeritaSatu
+http://edge.linknetott.swiftserve.com/live/BsNew/amlst:beritasatunewsbs/playlist.m3u8
+
+#EXTINF:-1 group-title="TV_BERITA_Indonesia" tvg-logo="http://www.dens.tv/images/channel-logo/17.jpg", TVRI
+http://rr2.dens.tv/s/s11/index10.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_cnnindonesia_small1.png?v=2.0.0.13" group-title="TV_BERITA_Indonesia",CNN INDONESIA
+http://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w2069650134_b280000_sleng.m3u8#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_cnnindonesia_small1.png?v=2.0.0.13" group-title="TV Nasional Indonesia",CNN INDONESIA
+http://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w2069650134_b280000_sleng.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qdJUDL8.png" group-title="NATIONAL NEWS",CNBC Indonesia
+https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/chunklist_w1843433135_b384000_sleng.m3u8
